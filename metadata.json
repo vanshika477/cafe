@@ -1,0 +1,6 @@
+{
+  "name": "Maa Ka Hath Ka Khana",
+  "description": "Experience authentic, comforting home-cooked Indian meals made with love, fresh ingredients, and traditional recipes at Cafe Gohana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
